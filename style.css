@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+}
+h6{
+    color: rgb(101, 171, 204); 
+}
+a{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+body{
+    background-color: darksalmon; 
+    text-align: center; 
+}
+li{ 
+   list-style-position: inside;
+}
