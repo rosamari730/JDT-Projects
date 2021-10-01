@@ -1,0 +1,16 @@
+document.getElementById("title")
+document.getElementById("title").innerHTML 
+
+#key word let - create a variable that can be adjusted 
+#const - create a variable that cannot be changed 
+
+const function_name = inputs or parameters => 
+{
+    body
+}
+
+console.log() //- used to debug 
+
+
+
+
